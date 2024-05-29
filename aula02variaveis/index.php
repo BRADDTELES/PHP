@@ -7,7 +7,7 @@ $head = "<!DOCTYPE html>
 <html lang='pt'>
 <head>
 
-    <title>Site de PHP by <?= $nome ?></title>
+    <title>Site de PHP by $nome</title>
 </head>";
 $body = "
 <body>
